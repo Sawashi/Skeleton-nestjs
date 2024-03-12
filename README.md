@@ -1,6 +1,6 @@
 ## Description <!-- omit in toc -->
 
-NestJS init included: NestJS + TypeORM + Postgres + Swagger
+NestJS init included: Docker + NestJS + TypeORM + Postgres + Swagger
 
 ## How to run:
 - Install Postgres: https://www.postgresql.org/download/
