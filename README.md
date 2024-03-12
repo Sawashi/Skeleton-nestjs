@@ -1,12 +1,6 @@
 ## Description <!-- omit in toc -->
 
-NestJS REST API boilerplate for typical project
-
-[Full documentation here](/docs/readme.md)
-
-Demo: <https://nestjs-boilerplate-test.herokuapp.com/docs>
-
-Frontend (React, Next.js): <https://github.com/brocoders/extensive-react-boilerplate>
+NestJS init included: NestJS + TypeORM + Postgres + Swagger
 
 ## How to run:
 - Install Postgres: https://www.postgresql.org/download/
@@ -30,6 +24,7 @@ Frontend (React, Next.js): <https://github.com/brocoders/extensive-react-boilerp
   ```
   npm run start:dev
   ```
+- Full document if you need: [Here](/docs/readme.md)
 * Note 1: If you have error dont exists database, please delete all things in docker then connect again.
 * Note 2: If you ran into error cannot login to db, please use this tutorial to change your password:
 https://www.postgresqltutorial.com/postgresql-administration/postgresql-reset-password/
